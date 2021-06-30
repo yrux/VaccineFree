@@ -19,10 +19,10 @@
 			                <div class="menu-sec-main">
 			                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 			                    <ul class="navbar-nav align-items-center">
-			                      <li class="active"><a href="#"><img src="images/menu-icon-img-01.png" class="img-responsive" alt="">Discover</a></li>
-			                      <li><a href="#"> <img src="images/menu-icon-img-02.png" class="img-responsive" alt=""> Questions </a></li>
-			                      <li><a href="#"> <img src="images/menu-icon-img-03.png" class="img-responsive" alt=""> Likes  </a></li>
-			                      <li><a href="#"> <img src="images/menu-icon-img-04.png" class="img-responsive" alt=""> Messages  </a></li>
+			                      <li class="active"><a href="main-portal.php"><img src="images/menu-icon-img-01.png" class="img-responsive" alt="">Discover</a></li>
+			                      <li><a href="question.php"> <img src="images/menu-icon-img-02.png" class="img-responsive" alt=""> Questions </a></li>
+			                      <li><a href="likes.php"> <img src="images/menu-icon-img-03.png" class="img-responsive" alt=""> Likes  </a></li>
+			                      <li><a href="message.php"> <img src="images/menu-icon-img-04.png" class="img-responsive" alt=""> Messages  </a></li>
 			                    </ul>
 			                  </div>
 			                </div>
